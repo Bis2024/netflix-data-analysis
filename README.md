@@ -88,6 +88,7 @@ Explored relationships between numeric features using correlation heatmap.
 - TV-MA is the most common rating
 - Drama and Comedy are the most popular genres
 - Most Netflix content was released after 2000
+- Most movies are between 80–120 minutes long
 - Mean and median release years are relatively close, indicating balanced distribution
 - Correlation between numeric features is weak
 
@@ -98,11 +99,12 @@ The project also includes statistical analysis to better understand Netflix cont
 
 ### Analysis Performed
 - Distribution analysis of release years
+- Distribution analysis of movie durations
 - Mean and median calculations
 - Correlation analysis using heatmap visualization
 
 ### Statistical Insights
 - Most Netflix content belongs to modern release years
+- Movie durations are concentrated around standard industry runtime
 - Mean and median values are relatively close, suggesting balanced distributions
 - Numeric features show weak correlation with each other
-
