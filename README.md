@@ -80,19 +80,6 @@ Calculated mean and median values for release years.
 ### 8. Correlation Analysis
 Explored relationships between numeric features using correlation heatmap.
 
-
-## Key Insights
-- Movies dominate Netflix compared to TV Shows
-- USA is the largest content contributor
-- Netflix content increased significantly after 2015
-- TV-MA is the most common rating
-- Drama and Comedy are the most popular genres
-- Most Netflix content was released after 2000
-- Most movies are between 80–120 minutes long
-- Mean and median release years are relatively close, indicating balanced distribution
-- Correlation between numeric features is weak
-
-
 ## Statistical Analysis
 
 The project also includes statistical analysis to better understand Netflix content patterns.
@@ -108,3 +95,14 @@ The project also includes statistical analysis to better understand Netflix cont
 - Movie durations are concentrated around standard industry runtime
 - Mean and median values are relatively close, suggesting balanced distributions
 - Numeric features show weak correlation with each other
+
+## Key Insights
+- Movies dominate Netflix compared to TV Shows
+- USA is the largest content contributor
+- Netflix content increased significantly after 2015
+- TV-MA is the most common rating
+- Drama and Comedy are the most popular genres
+- Most Netflix content was released after 2000
+- Most movies are between 80–120 minutes long
+- Mean and median release years are relatively close, indicating balanced distribution
+- Correlation between numeric features is weak
